@@ -1,5 +1,5 @@
 {
-    "name": "mmollick/drip-php",
+    "name": "rjm87/drip-php",
     "description": "Community supported library for Drip.com's API",
     "keywords": ["drip", "api", "sdk", "wrapper", "email"],
     "type": "library",
